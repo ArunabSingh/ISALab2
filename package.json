@@ -1,0 +1,14 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "<blockquote>\r Demo - https://inspiring-gumption-7312b7.netlify.app/\r </blockquote>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arunabsingh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
